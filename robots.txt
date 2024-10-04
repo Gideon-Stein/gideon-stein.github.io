@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Gideon-Stein.github.io/sitemap.xml
+Sitemap: https://gideon-stein.github.io/sitemap.xml
