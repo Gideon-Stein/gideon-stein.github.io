@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Gideon Stein",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "gideon.stein@uni-jena.de",
+    "phone": "",
+    "url": "steinml.de",
+    "summary": "A german machine learning researcher, with a special interest in Causality",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Ernst Abbe Platz 2",
+      "postalCode": "07743",
+      "city": "Jena",
+      "countryCode": "DE",
+      "region": "Thuringia"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "gideon-stein",
+        "url": "https://www.linkedin.com/in/gideon-stein-360036213"
       }
     ]
   },
@@ -69,7 +69,7 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "Masters Degree",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
@@ -159,6 +159,11 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Russian",
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
   "interests": [
@@ -177,12 +182,12 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Joachim Denzler",
       "icon": "fa-solid fa-laptop",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Dr. Maha Shadaydeh",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
