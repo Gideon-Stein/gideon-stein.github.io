@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://inf-cv.uni-jena.de/'>Computer Vision Group Jena</a>, <a href='steinml.de'>steinML</a>
+subtitle: <a href='https://inf-cv.uni-jena.de/'>Computer Vision Group Jena</a>, <a href='https://steinml.de'>steinML</a>
 
 profile:
   align: left
