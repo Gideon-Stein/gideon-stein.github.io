@@ -375,8 +375,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-will-be-at-iclr2025-happy-to-meet-you-there",
-          title: 'I will be at ICLR2025 🥳! Happy to meet you there.',
+    },{id: "news-i-will-be-at-iclr2025-with-a-spotlight-poster-on-causal-rivers-happy-to-meet-you-there",
+          title: 'I will be at ICLR2025 with a spotlight poster on Causal Rivers 🥳!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
